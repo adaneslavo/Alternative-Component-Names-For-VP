@@ -9,17 +9,18 @@ v1:
 			- xenonyms-full (all names are changed to english names including ...)
 			- endonyms (all names are changed to use native language of the nation),
 			- endonyms-full (all names are changed to use native language of the nation including loanwords).
-		- native civilization names (short and long):
+		- civilization names (short and long):
 			- original,
 			- endonyms (all names are changed to use native language of the nation).
-		- renaming Greece to Macedonia:
-			- Greece,
-			- Macedonia,
-			- Makedonia.
-		- renaming Polinesia to Hawai'i:
-			- Polinesia,
-			- Polenisia,
-			- Hawai'i.
-		- native leader names,
-		- native and reordered city names (credits in special file),
-		- random city names (by @whoward69 and @Nutty).
+		- leader names:
+			- original,
+			- endonyms (all names are changed to use native language of the nation).
+		- city names (credits in special file):
+			- original,
+			- sorted endonyms (totally new ciy lists depending on leader era; all names are changed to use native language of the nation).
+		- random city names feature (by @whoward69 and @Nutty):
+			- enabled,
+			- disabled.
+- renamed incorrect country names:
+	- Greece to Makedonia,
+	- Polinesia to Hawai'i.
