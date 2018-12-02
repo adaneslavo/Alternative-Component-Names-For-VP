@@ -246,7 +246,10 @@ WHERE Type = 'ACN-CIV-ISR' AND EXISTS (SELECT * FROM Units WHERE Type='UNIT_ISRA
 		UPDATE Language_en_US SET Text = 'Süleyman-i Evvel' WHERE Tag = 'TXT_KEY_LEADER_SULEIMAN' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACNLEA' AND Value=1);
 		UPDATE Language_en_US SET Text = 'Hiawatha' WHERE Tag = 'TXT_KEY_LEADER_HIAWATHA' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACNLEA' AND Value=1);
 		UPDATE Language_en_US SET Text = 'Pachakutiq Inka Yupanki' WHERE Tag = 'TXT_KEY_LEADER_PACHACUTI' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACNLEA' AND Value=1);
-		UPDATE Language_en_US SET Text = 'Theodora' WHERE Tag = 'TXT_KEY_LEADER_THEODORA' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACNLEA' AND Value=1);	
+		UPDATE Language_en_US SET Text = 'Theodora' WHERE Tag = 'TXT_KEY_LEADER_THEODORA' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACNLEA' AND Value=1);
+		UPDATE Language_en_US SET Text = 'Aleksandros III ho Megas' WHERE Tag = 'TXT_KEY_LEADER_ALEXANDER' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACNLEA' AND Value=1);
+		UPDATE Language_en_US SET Text = 'Haraldr Blatand Gormsson' WHERE Tag = 'TXT_KEY_LEADER_HARALD' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACNLEA' AND Value=1);	
+		UPDATE Language_en_US SET Text = 'Maria I a Piedosa' WHERE Tag = 'TXT_KEY_LEADER_MARIA_I' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACNLEA' AND Value=1);	
 --==============================================================================================================================================================================================================================================================================================--
 --==============================================================================================================================================================================================================================================================================================--
 -- City Names
