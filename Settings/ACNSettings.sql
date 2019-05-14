@@ -4,7 +4,7 @@ Alternative Component Names!
 1 = Xenonyms (english names).
 2 = Xenonyms-detailed (english names including ...).
 3 = Endonyms (native names).
-4 = Endonyms-detailed (native names including words very similar (load words); set as default).
+4 = Endonyms-detailed (native names including words very similar (loan words); set as default).
 */
 
 INSERT INTO COMMUNITY	
@@ -23,7 +23,7 @@ INSERT INTO COMMUNITY
 VALUES	('ACNCIV',		1);
 
 /*
-Civilization Leader's renaming!
+Civilization's Leaders renaming!
 0 = Original (original version).
 1 = Endonyms (native names; set as default).
 */
