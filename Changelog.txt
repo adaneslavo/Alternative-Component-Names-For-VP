@@ -9,7 +9,7 @@ v1:
 			- xenonyms-full (all names are changed to english names including ...)
 			- endonyms (all names are changed to use native language of the nation),
 			- endonyms-full (all names are changed to use native language of the nation including loanwords).
-		- civilization names (short and long):
+		- civilization names (short, long and few adjectives):
 			- original,
 			- endonyms (all names are changed to use native language of the nation).
 		- leader names:
