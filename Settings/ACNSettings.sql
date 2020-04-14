@@ -18,12 +18,13 @@ VALUES	('ACN-UNITS',	4);
 /*
 Civilization's renaming:
 0 = Original (original version).
-1 = Endonyms (native names; set as default).
+1 = Xenonyms (english corrected names).
+2 = Endonyms (native names; set as default).
 */
 
 INSERT INTO COMMUNITY	
 		(Type,					Value)
-VALUES	('ACN-CIVILIZATIONS',	1);
+VALUES	('ACN-CIVILIZATIONS',	2);
 
 /*
 Civilization's Leaders renaming:

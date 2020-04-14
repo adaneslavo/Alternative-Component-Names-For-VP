@@ -1,26 +1,3 @@
 Changelog:
 v1:
-- added:
-	- basic features for: VP and MUCfVP,
-	- available settings (by changing special value in Texts/AlternativeNames.sql file):
-		- main mode:
-			- mixed,
-			- xenonyms (all names are changed to use english names),
-			- xenonyms-full (all names are changed to english names including ...)
-			- endonyms (all names are changed to use native language of the nation),
-			- endonyms-full (all names are changed to use native language of the nation including loanwords).
-		- civilization names (short, long and few adjectives):
-			- original,
-			- endonyms (all names are changed to use native language of the nation).
-		- leader names:
-			- original,
-			- endonyms (all names are changed to use native language of the nation).
-		- city names (credits in special file):
-			- original,
-			- sorted endonyms (totally new ciy lists depending on leader era; all names are changed to use native language of the nation).
-		- random city names feature (by @whoward69 and @Nutty):
-			- enabled,
-			- disabled.
-- renamed incorrect country names:
-	- Greece to Makedonia,
-	- Polinesia to Hawai'i.
+- in progress...
