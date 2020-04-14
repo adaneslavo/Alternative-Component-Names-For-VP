@@ -258,64 +258,64 @@ WHERE Type = 'ACN-MUCfVP' AND EXISTS (SELECT * FROM Units WHERE Type='UNIT_ZULU_
 --==============================================================================================================================================================================================================================================================================================--
 --==============================================================================================================================================================================================================================================================================================--
 -- City-States Names
-	--UPDATE Language_en_US SET Text = 'Almaty' WHERE Tag = 'TXT_KEY_CITYSTATE_ALMATY'
-	--UPDATE Language_en_US SET Text = 'Antananarivo' WHERE Tag = 'TXT_KEY_CITYSTATE_ANTANANARIVO'
-	UPDATE Language_en_US SET Text = 'Antwerpen' WHERE Tag = 'TXT_KEY_CITYSTATE_ANTWERP'
-	UPDATE Language_en_US SET Text = 'Beograd' WHERE Tag = 'TXT_KEY_CITYSTATE_BELGRADE'
-	--UPDATE Language_en_US SET Text = 'Bogota' WHERE Tag = 'TXT_KEY_CITYSTATE_BOGOTA'
-	--UPDATE Language_en_US SET Text = 'Bratislava' WHERE Tag = 'TXT_KEY_CITYSTATE_BRATISLAVA'
-	UPDATE Language_en_US SET Text = 'Bruxelles' WHERE Tag = 'TXT_KEY_CITYSTATE_BRUSSELS'
-	UPDATE Language_en_US SET Text = 'Bucuresti' WHERE Tag = 'TXT_KEY_CITYSTATE_BUCHAREST'
-	--UPDATE Language_en_US SET Text = 'Budapest' WHERE Tag = 'TXT_KEY_CITYSTATE_BUDAPEST'
-	--UPDATE Language_en_US SET Text = 'Buenos Aires' WHERE Tag = 'TXT_KEY_CITYSTATE_BUENOS_AIRES'
-	UPDATE Language_en_US SET Text = 'Gebal' WHERE Tag = 'TXT_KEY_CITYSTATE_BYBLOS'
-	--UPDATE Language_en_US SET Text = 'Cahokia' WHERE Tag = 'TXT_KEY_CITYSTATE_CAHOKIA'
-	UPDATE Language_en_US SET Text = 'Kaapstad' WHERE Tag = 'TXT_KEY_CITYSTATE_CAPE_TOWN'
-	UPDATE Language_en_US SET Text = 'Kolamba' WHERE Tag = 'TXT_KEY_CITYSTATE_COLOMBO'
-	UPDATE Language_en_US SET Text = 'Firenze' WHERE Tag = 'TXT_KEY_CITYSTATE_FLORENCE'
-	UPDATE Language_en_US SET Text = 'Geneve' WHERE Tag = 'TXT_KEY_CITYSTATE_GENEVA'
-	UPDATE Language_en_US SET Text = 'Zena' WHERE Tag = 'TXT_KEY_CITYSTATE_GENOA'
-	UPDATE Language_en_US SET Text = 'Ha Noi' WHERE Tag = 'TXT_KEY_CITYSTATE_HANOI'
-	--UPDATE Language_en_US SET Text = 'Hong Kong' WHERE Tag = 'TXT_KEY_CITYSTATE_HONG_KONG'
-	--UPDATE Language_en_US SET Text = 'Ife' WHERE Tag = 'TXT_KEY_CITYSTATE_IFE'
-	UPDATE Language_en_US SET Text = 'Yerushalayim' WHERE Tag = 'TXT_KEY_CITYSTATE_JERUSALEM'
-	--UPDATE Language_en_US SET Text = 'Kabul' WHERE Tag = 'TXT_KEY_CITYSTATE_KABUL'
-	--UPDATE Language_en_US SET Text = 'Kathmandu' WHERE Tag = 'TXT_KEY_CITYSTATE_KATHMANDU'
-	UPDATE Language_en_US SET Text = 'Kyiv' WHERE Tag = 'TXT_KEY_CITYSTATE_KIEV'
-	--UPDATE Language_en_US SET Text = 'Kuala Lumpur' WHERE Tag = 'TXT_KEY_CITYSTATE_KUALA_LUMPUR'
-	--UPDATE Language_en_US SET Text = 'Kyzyl' WHERE Tag = 'TXT_KEY_CITYSTATE_KYZYL'
-	--UPDATE Language_en_US SET Text = 'La Venta' WHERE Tag = 'TXT_KEY_CITYSTATE_LA_VENTA'
-	UPDATE Language_en_US SET Text = 'Lhasa' WHERE Tag = 'TXT_KEY_CITYSTATE_LHASA'
-	UPDATE Language_en_US SET Text = 'Melaka' WHERE Tag = 'TXT_KEY_CITYSTATE_MALACCA'
-	UPDATE Language_en_US SET Text = 'Maynila' WHERE Tag = 'TXT_KEY_CITYSTATE_MANILA'
-	--UPDATE Language_en_US SET Text = 'M''Banza Kongo' WHERE Tag = 'TXT_KEY_CITYSTATE_MBANZA_KONGO'
-	--UPDATE Language_en_US SET Text = 'Melbourne' WHERE Tag = 'TXT_KEY_CITYSTATE_MELBOURNE'
-	UPDATE Language_en_US SET Text = 'Milano' WHERE Tag = 'TXT_KEY_CITYSTATE_MILAN'
-	UPDATE Language_en_US SET Text = 'Muqdisho' WHERE Tag = 'TXT_KEY_CITYSTATE_MOGADISHU'
-	--UPDATE Language_en_US SET Text = 'Mombasa' WHERE Tag = 'TXT_KEY_CITYSTATE_MOMBASA'
-	--UPDATE Language_en_US SET Text = 'Monaco' WHERE Tag = 'TXT_KEY_CITYSTATE_MONACO'
-	UPDATE Language_en_US SET Text = 'Hormuz' WHERE Tag = 'TXT_KEY_CITYSTATE_ORMUS'
-	UPDATE Language_en_US SET Text = 'Panama' WHERE Tag = 'TXT_KEY_CITYSTATE_PANAMA_CITY'
-	UPDATE Language_en_US SET Text = 'Praha' WHERE Tag = 'TXT_KEY_CITYSTATE_PRAGUE'
-	UPDATE Language_en_US SET Text = 'Quebec' WHERE Tag = 'TXT_KEY_CITYSTATE_QUEBEC_CITY'
-	--UPDATE Language_en_US SET Text = 'Ragusa' WHERE Tag = 'TXT_KEY_CITYSTATE_RAGUSA'
-	--UPDATE Language_en_US SET Text = 'Riga' WHERE Tag = 'TXT_KEY_CITYSTATE_RIGA'
-	UPDATE Language_en_US SET Text = 'Samarqand' WHERE Tag = 'TXT_KEY_CITYSTATE_SAMARKAND'
-	--UPDATE Language_en_US SET Text = 'Sidon' WHERE Tag = 'TXT_KEY_CITYSTATE_SIDON'
-	UPDATE Language_en_US SET Text = 'Singapura' WHERE Tag = 'TXT_KEY_CITYSTATE_SINGAPORE'
-	UPDATE Language_en_US SET Text = 'Sofiya' WHERE Tag = 'TXT_KEY_CITYSTATE_SOFIA'
-	--UPDATE Language_en_US SET Text = 'Sydney' WHERE Tag = 'TXT_KEY_CITYSTATE_SYDNEY'
-	UPDATE Language_en_US SET Text = 'Sur' WHERE Tag = 'TXT_KEY_CITYSTATE_TYRE'
-	UPDATE Language_en_US SET Text = 'Urim' WHERE Tag = 'TXT_KEY_CITYSTATE_UR'
-	--UPDATE Language_en_US SET Text = 'Valetta' WHERE Tag = 'TXT_KEY_CITYSTATE_VALLETTA'
-	--UPDATE Language_en_US SET Text = 'Vancouver' WHERE Tag = 'TXT_KEY_CITYSTATE_VANCOUVER'
-	UPDATE Language_en_US SET Text = 'Citta del Vaticano' WHERE Tag = 'TXT_KEY_CITYSTATE_VATICAN_CITY'
-	--UPDATE Language_en_US SET Text = 'Vilnius' WHERE Tag = 'TXT_KEY_CITYSTATE_VILNIUS'
-	--UPDATE Language_en_US SET Text = 'Wellington' WHERE Tag = 'TXT_KEY_CITYSTATE_WELLINGTON'
-	--UPDATE Language_en_US SET Text = 'Wittenberg' WHERE Tag = 'TXT_KEY_CITYSTATE_WITTENBERG'
-	UPDATE Language_en_US SET Text = 'Erebuni' WHERE Tag = 'TXT_KEY_CITYSTATE_YEREVAN'
-	--UPDATE Language_en_US SET Text = 'Zanzibar' WHERE Tag = 'TXT_KEY_CITYSTATE_ZANZIBAR'
-	--UPDATE Language_en_US SET Text = 'Zurich' WHERE Tag = 'TXT_KEY_CITYSTATE_ZURICH'
+	--UPDATE Language_en_US SET Text = 'Almaty' WHERE Tag = 'TXT_KEY_CITYSTATE_ALMATY';
+	--UPDATE Language_en_US SET Text = 'Antananarivo' WHERE Tag = 'TXT_KEY_CITYSTATE_ANTANANARIVO';
+	UPDATE Language_en_US SET Text = 'Antwerpen' WHERE Tag = 'TXT_KEY_CITYSTATE_ANTWERP';
+	UPDATE Language_en_US SET Text = 'Beograd' WHERE Tag = 'TXT_KEY_CITYSTATE_BELGRADE';
+	--UPDATE Language_en_US SET Text = 'Bogota' WHERE Tag = 'TXT_KEY_CITYSTATE_BOGOTA';
+	--UPDATE Language_en_US SET Text = 'Bratislava' WHERE Tag = 'TXT_KEY_CITYSTATE_BRATISLAVA';
+	UPDATE Language_en_US SET Text = 'Bruxelles' WHERE Tag = 'TXT_KEY_CITYSTATE_BRUSSELS';
+	UPDATE Language_en_US SET Text = 'Bucuresti' WHERE Tag = 'TXT_KEY_CITYSTATE_BUCHAREST';
+	--UPDATE Language_en_US SET Text = 'Budapest' WHERE Tag = 'TXT_KEY_CITYSTATE_BUDAPEST';
+	--UPDATE Language_en_US SET Text = 'Buenos Aires' WHERE Tag = 'TXT_KEY_CITYSTATE_BUENOS_AIRES';
+	UPDATE Language_en_US SET Text = 'Gebal' WHERE Tag = 'TXT_KEY_CITYSTATE_BYBLOS';
+	--UPDATE Language_en_US SET Text = 'Cahokia' WHERE Tag = 'TXT_KEY_CITYSTATE_CAHOKIA';
+	UPDATE Language_en_US SET Text = 'Kaapstad' WHERE Tag = 'TXT_KEY_CITYSTATE_CAPE_TOWN';
+	UPDATE Language_en_US SET Text = 'Kolamba' WHERE Tag = 'TXT_KEY_CITYSTATE_COLOMBO';
+	UPDATE Language_en_US SET Text = 'Firenze' WHERE Tag = 'TXT_KEY_CITYSTATE_FLORENCE';
+	UPDATE Language_en_US SET Text = 'Geneve' WHERE Tag = 'TXT_KEY_CITYSTATE_GENEVA';
+	UPDATE Language_en_US SET Text = 'Zena' WHERE Tag = 'TXT_KEY_CITYSTATE_GENOA';
+	UPDATE Language_en_US SET Text = 'Ha Noi' WHERE Tag = 'TXT_KEY_CITYSTATE_HANOI';
+	--UPDATE Language_en_US SET Text = 'Hong Kong' WHERE Tag = 'TXT_KEY_CITYSTATE_HONG_KONG';
+	--UPDATE Language_en_US SET Text = 'Ife' WHERE Tag = 'TXT_KEY_CITYSTATE_IFE';
+	UPDATE Language_en_US SET Text = 'Yerushalayim' WHERE Tag = 'TXT_KEY_CITYSTATE_JERUSALEM';
+	--UPDATE Language_en_US SET Text = 'Kabul' WHERE Tag = 'TXT_KEY_CITYSTATE_KABUL';
+	--UPDATE Language_en_US SET Text = 'Kathmandu' WHERE Tag = 'TXT_KEY_CITYSTATE_KATHMANDU';
+	UPDATE Language_en_US SET Text = 'Kyiv' WHERE Tag = 'TXT_KEY_CITYSTATE_KIEV';
+	--UPDATE Language_en_US SET Text = 'Kuala Lumpur' WHERE Tag = 'TXT_KEY_CITYSTATE_KUALA_LUMPUR';
+	--UPDATE Language_en_US SET Text = 'Kyzyl' WHERE Tag = 'TXT_KEY_CITYSTATE_KYZYL';
+	--UPDATE Language_en_US SET Text = 'La Venta' WHERE Tag = 'TXT_KEY_CITYSTATE_LA_VENTA';
+	UPDATE Language_en_US SET Text = 'Lhasa' WHERE Tag = 'TXT_KEY_CITYSTATE_LHASA';
+	UPDATE Language_en_US SET Text = 'Melaka' WHERE Tag = 'TXT_KEY_CITYSTATE_MALACCA';
+	UPDATE Language_en_US SET Text = 'Maynila' WHERE Tag = 'TXT_KEY_CITYSTATE_MANILA';
+	--UPDATE Language_en_US SET Text = 'M''Banza Kongo' WHERE Tag = 'TXT_KEY_CITYSTATE_MBANZA_KONGO';
+	--UPDATE Language_en_US SET Text = 'Melbourne' WHERE Tag = 'TXT_KEY_CITYSTATE_MELBOURNE';
+	UPDATE Language_en_US SET Text = 'Milano' WHERE Tag = 'TXT_KEY_CITYSTATE_MILAN';
+	UPDATE Language_en_US SET Text = 'Muqdisho' WHERE Tag = 'TXT_KEY_CITYSTATE_MOGADISHU';
+	--UPDATE Language_en_US SET Text = 'Mombasa' WHERE Tag = 'TXT_KEY_CITYSTATE_MOMBASA';
+	--UPDATE Language_en_US SET Text = 'Monaco' WHERE Tag = 'TXT_KEY_CITYSTATE_MONACO';
+	UPDATE Language_en_US SET Text = 'Hormuz' WHERE Tag = 'TXT_KEY_CITYSTATE_ORMUS';
+	UPDATE Language_en_US SET Text = 'Panama' WHERE Tag = 'TXT_KEY_CITYSTATE_PANAMA_CITY';
+	UPDATE Language_en_US SET Text = 'Praha' WHERE Tag = 'TXT_KEY_CITYSTATE_PRAGUE';
+	UPDATE Language_en_US SET Text = 'Quebec' WHERE Tag = 'TXT_KEY_CITYSTATE_QUEBEC_CITY';
+	--UPDATE Language_en_US SET Text = 'Ragusa' WHERE Tag = 'TXT_KEY_CITYSTATE_RAGUSA';
+	--UPDATE Language_en_US SET Text = 'Riga' WHERE Tag = 'TXT_KEY_CITYSTATE_RIGA';
+	UPDATE Language_en_US SET Text = 'Samarqand' WHERE Tag = 'TXT_KEY_CITYSTATE_SAMARKAND';
+	--UPDATE Language_en_US SET Text = 'Sidon' WHERE Tag = 'TXT_KEY_CITYSTATE_SIDON';
+	UPDATE Language_en_US SET Text = 'Singapura' WHERE Tag = 'TXT_KEY_CITYSTATE_SINGAPORE';
+	UPDATE Language_en_US SET Text = 'Sofiya' WHERE Tag = 'TXT_KEY_CITYSTATE_SOFIA';
+	--UPDATE Language_en_US SET Text = 'Sydney' WHERE Tag = 'TXT_KEY_CITYSTATE_SYDNEY';
+	UPDATE Language_en_US SET Text = 'Sur' WHERE Tag = 'TXT_KEY_CITYSTATE_TYRE';
+	UPDATE Language_en_US SET Text = 'Urim' WHERE Tag = 'TXT_KEY_CITYSTATE_UR';
+	--UPDATE Language_en_US SET Text = 'Valetta' WHERE Tag = 'TXT_KEY_CITYSTATE_VALLETTA';
+	--UPDATE Language_en_US SET Text = 'Vancouver' WHERE Tag = 'TXT_KEY_CITYSTATE_VANCOUVER';
+	UPDATE Language_en_US SET Text = 'Citta del Vaticano' WHERE Tag = 'TXT_KEY_CITYSTATE_VATICAN_CITY';
+	--UPDATE Language_en_US SET Text = 'Vilnius' WHERE Tag = 'TXT_KEY_CITYSTATE_VILNIUS';
+	--UPDATE Language_en_US SET Text = 'Wellington' WHERE Tag = 'TXT_KEY_CITYSTATE_WELLINGTON';
+	--UPDATE Language_en_US SET Text = 'Wittenberg' WHERE Tag = 'TXT_KEY_CITYSTATE_WITTENBERG';
+	UPDATE Language_en_US SET Text = 'Erebuni' WHERE Tag = 'TXT_KEY_CITYSTATE_YEREVAN';
+	--UPDATE Language_en_US SET Text = 'Zanzibar' WHERE Tag = 'TXT_KEY_CITYSTATE_ZANZIBAR';
+	--UPDATE Language_en_US SET Text = 'Zurich' WHERE Tag = 'TXT_KEY_CITYSTATE_ZURICH';
 --==============================================================================================================================================================================================================================================================================================--
 --==============================================================================================================================================================================================================================================================================================--
 -- City Names
