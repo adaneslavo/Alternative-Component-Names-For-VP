@@ -1,4 +1,8 @@
 Changelog:
+v3:
+- fixed Hunnic list;
+- added various new endonyms;
+
 v2:
 - added Hunnic city list;
 

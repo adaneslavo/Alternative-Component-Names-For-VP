@@ -5,7 +5,7 @@
     <ProjectGuid>{9d441f94-2b71-438f-a4c8-55b0ac146186}</ProjectGuid>
     <Name>(text) Alternative Component Names for VP</Name>
     <Guid>7f744e52-8950-4961-93f4-6b6d121b7894</Guid>
-    <ModVersion>2</ModVersion>
+    <ModVersion>3</ModVersion>
     <Stability>Stable</Stability>
     <Teaser>Renames components using either endonyms (english translations) or xenonyms (native words).</Teaser>
     <Description>Renames components and civilizations using either xenonyms (english translations) or endonyms (native words). 
