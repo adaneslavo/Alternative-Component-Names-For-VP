@@ -26,7 +26,7 @@ VALUES	('ACN-MUCfVP', 	2);
 
 UPDATE COMMUNITY
 SET Value = '1'
-WHERE Type = 'ACN-MUCfVP' AND EXISTS (SELECT * FROM Units WHERE Type='BUILDING_POLAND_BARBICAN') AND NOT EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-MUCfVP' AND Value=0);
+WHERE Type = 'ACN-MUCfVP' AND EXISTS (SELECT * FROM Buildings WHERE Type='BUILDING_POLAND_BARBICAN') AND NOT EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-MUCfVP' AND Value=0);
 
 --==============================================================================================================================================================================================================================================================================================--
 --==============================================================================================================================================================================================================================================================================================--

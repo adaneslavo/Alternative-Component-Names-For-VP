@@ -21,7 +21,15 @@ Compatible with VP, MUCfVP.</Description>
     <SupportsMac>true</SupportsMac>
     <AssemblyName>AlternativeComponentNamesForVP</AssemblyName>
     <RootNamespace>AlternativeComponentNamesForVP</RootNamespace>
-    <ModReferences />
+    <ModReferences>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(overhaul) More Unique Components for VP</Name>
+        <Id>259c3593-34dd-4fdd-bd7d-8ed67cc0797c</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+    </ModReferences>
     <ModDependencies>
       <Association>
         <Type>Mod</Type>

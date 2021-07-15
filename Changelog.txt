@@ -1,6 +1,7 @@
 Changelog:
 v5:
 - added Kraal from MUCfVP;
+- added missing reference for MUCfVP;
 
 v4:
 - added new endonyms;
