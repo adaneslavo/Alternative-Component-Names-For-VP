@@ -26,7 +26,7 @@ VALUES	('ACN-MUCfVP', 	2);
 
 UPDATE COMMUNITY
 SET Value = '1'
-WHERE Type = 'ACN-MUCfVP' AND EXISTS (SELECT * FROM Units WHERE Type='UNIT_ZULU_INDABA') AND NOT EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-MUCfVP' AND Value=0);
+WHERE Type = 'ACN-MUCfVP' AND EXISTS (SELECT * FROM Units WHERE Type='BUILDING_POLAND_BARBICAN') AND NOT EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-MUCfVP' AND Value=0);
 
 --==============================================================================================================================================================================================================================================================================================--
 --==============================================================================================================================================================================================================================================================================================--
@@ -48,6 +48,7 @@ WHERE Type = 'ACN-MUCfVP' AND EXISTS (SELECT * FROM Units WHERE Type='UNIT_ZULU_
 		UPDATE Language_en_US SET Text = 'Paradise Garden'					WHERE Tag = 'TXT_KEY_BUILDING_PERSIA_PAIRIDAEZA'				AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-UNITS' AND (Value=1 OR Value=2)) AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-MUCfVP' AND Value=1);
 		UPDATE Language_en_US SET Text = 'Mailed Companion'					WHERE Tag = 'TXT_KEY_UNIT_POLAND_PANCERNY'						AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-UNITS' AND (Value=1 OR Value=2)) AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-MUCfVP' AND Value=1);
 		UPDATE Language_en_US SET Text = 'Danish Cooperative Movement'		WHERE Tag = 'TXT_KEY_BUILDING_DENMARK_ANDELSBEVAEGELSE'			AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-UNITS' AND (Value=1 OR Value=2)) AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-MUCfVP' AND Value=1);
+		UPDATE Language_en_US SET Text = 'Kraal'							WHERE Tag = 'TXT_KEY_IMPROVEMENT_ZULU_KRAAL'					AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-UNITS' AND (Value=1 OR Value=2)) AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-MUCfVP' AND Value=1);
 			-- detailed MUCfVP
 			
 	-- Endonyms
