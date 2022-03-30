@@ -5,7 +5,7 @@
     <ProjectGuid>{9d441f94-2b71-438f-a4c8-55b0ac146186}</ProjectGuid>
     <Name>(text) Alternative Component Names for VP</Name>
     <Guid>7f744e52-8950-4961-93f4-6b6d121b7894</Guid>
-    <ModVersion>5</ModVersion>
+    <ModVersion>6</ModVersion>
     <Stability>Stable</Stability>
     <Teaser>Renames components using either endonyms (english translations) or xenonyms (native words).</Teaser>
     <Description>Renames components and civilizations using either xenonyms (english translations) or endonyms (native words). 
@@ -33,23 +33,9 @@ Compatible with VP, MUCfVP.</Description>
     <ModDependencies>
       <Association>
         <Type>Mod</Type>
-        <Name>(3) City-State Diplomacy Mod for CBP</Name>
-        <Id>eead0050-1e3f-4178-a91f-26cf1881ac39</Id>
-        <MinVersion>27</MinVersion>
-        <MaxVersion>999</MaxVersion>
-      </Association>
-      <Association>
-        <Type>Mod</Type>
-        <Name>(4) C4DF - CBP</Name>
-        <Id>c7bf7064-d1b1-4708-9e93-7a1560868582</Id>
-        <MinVersion>11</MinVersion>
-        <MaxVersion>999</MaxVersion>
-      </Association>
-      <Association>
-        <Type>Mod</Type>
-        <Name>(5) More Luxuries - CBO Edition</Name>
-        <Id>be2d13ee-d18d-410e-8f04-7cd19cd99a98</Id>
-        <MinVersion>155</MinVersion>
+        <Name>(2) Community Balance Overhaul</Name>
+        <Id>8411a7a8-dad3-4622-a18e-fcc18324c799</Id>
+        <MinVersion>14</MinVersion>
         <MaxVersion>999</MaxVersion>
       </Association>
     </ModDependencies>
