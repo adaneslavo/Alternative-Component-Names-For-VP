@@ -1,7 +1,10 @@
 Changelog:
-v6:
+v7:
 - added compatibility with all @pineappledan's custom civilizations;
 - fixes numerous compatibility issues with MUCfVP (Bullring, Mamluk, Krupp Gun);
+
+v6:
+- VP 2.0 compatibility;
 
 v5:
 - added Kraal from MUCfVP;
