@@ -1,4 +1,13 @@
 Changelog:
+v8:
+- added support for base Natural Wonders and those from More Wonders mod;
+- added references for custom civilizations;
+- modified civilizations compatibility tags to be easily distinguishable in Community table (added "-CIVILIZATION");
+- added compatiblity (reference) and new endonyms for new CSs from UCS;
+- further @pineappledan's civilizations tweaks;
+- cleaning the files (deleting Missión; changed cathegories for some entries);
+- renamed Helsinki to Helsingfors in swedish city list;
+
 v7:
 - added compatibility with all @pineappledan's custom civilizations;
 - fixes numerous compatibility issues with MUCfVP (Bullring, Mamluk, Krupp Gun);

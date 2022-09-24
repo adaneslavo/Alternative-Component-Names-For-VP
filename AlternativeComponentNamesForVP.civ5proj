@@ -5,7 +5,7 @@
     <ProjectGuid>{9d441f94-2b71-438f-a4c8-55b0ac146186}</ProjectGuid>
     <Name>(text) Alternative Component Names for VP</Name>
     <Guid>7f744e52-8950-4961-93f4-6b6d121b7894</Guid>
-    <ModVersion>7</ModVersion>
+    <ModVersion>8</ModVersion>
     <Stability>Stable</Stability>
     <Teaser>Renames components using either endonyms (english translations) or xenonyms (native words).</Teaser>
     <Description>Renames components and civilizations using either xenonyms (english translations) or endonyms (native words). 
@@ -24,8 +24,113 @@ Compatible with VP, MUCfVP.</Description>
     <ModReferences>
       <Association>
         <Type>Mod</Type>
-        <Name>(overhaul) More Unique Components for VP</Name>
+        <Name>More Unique Components for VP</Name>
         <Id>259c3593-34dd-4fdd-bd7d-8ed67cc0797c</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>Unique City-States</Name>
+        <Id>b2eb6d1e-1fcb-4a0d-829c-51691aa3183a</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>More Wonders for VP</Name>
+        <Id>3e151552-1683-4881-b736-8ee89226f599</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@pineappledan's) Cambodia</Name>
+        <Id>7b2d759e-3366-41c7-8e0c-b4ebfe1c79g2</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@pineappledan's) Canada</Name>
+        <Id>8562c016-f5bb-40f1-b37e-d3b40d3fg13e</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@pineappledan's) Chola</Name>
+        <Id>bb769714-1243-4d42-9c13-bdbb37925449</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@pineappledan's) Goths</Name>
+        <Id>161f4dde-bbb8-41d2-8999-30250d9ba231</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@pineappledan's) Inuit</Name>
+        <Id>dcdaabd2-b224-4680-bdc0-d8692a1a1249</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@pineappledan's) Israel</Name>
+        <Id>35e27828-cf22-4aec-b087-08169fa4e430</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@pineappledan's) Macedon</Name>
+        <Id>d4d41747-f4f3-4861-9346-928634c8c68f</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@pineappledan's) Nubia</Name>
+        <Id>4bd78158-67ce-4bd5-9b43-c7d4b1503a96</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@pineappledan's) Philippines</Name>
+        <Id>2b5ad645-8094-4ed7-a488-1e49eb9277aa</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@pineappledan's) Phoenicia</Name>
+        <Id>7762c016-f5bb-40f1-b37e-d3b40d4gh23e</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@pineappledan's) Sumer</Name>
+        <Id>7dbedfbe-cce4-49cd-a2bc-3507e38f4bd4</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@pineappledan's) Timurids</Name>
+        <Id>cc3e1671-2832-40dc-9bfd-8e053d3b76b2</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@pineappledan's) Tlingit</Name>
+        <Id>bb769714-1243-4d42-9c13-bdbb55405064</Id>
         <MinVersion>0</MinVersion>
         <MaxVersion>999</MaxVersion>
       </Association>
