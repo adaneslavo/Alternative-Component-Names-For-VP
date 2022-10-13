@@ -1,4 +1,8 @@
 Changelog:
+v9:
+- readded Missión from VP 2.7;
+- cut "Hall" from "Ceilidh Hall";
+
 v8:
 - added support for base Natural Wonders and those from More Wonders mod;
 - added references for custom civilizations;
