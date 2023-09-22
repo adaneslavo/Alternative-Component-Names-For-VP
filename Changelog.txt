@@ -1,14 +1,15 @@
 Changelog:
 v10:
-- added 1 Polish city: Œwidnica;
-- added ó to Polish names, as it is the only one working;
-- added some unique letters to the exisitng changes (á, ä, é, ?, ó, ü, ç);
+- added 1 Polish city: Åšwidnica;
+- added Ã³ to Polish names, as it is the only one working;
+- added unique letters and made some corrections to city lists (Spain, Portugal, Brazil, Sweden, Germany, Austria);
+- added some unique letters to the exisitng changes (Ã¡, Ã¤, Ã©, Ã¨, Ã³, Ã¼, Ã§);
 - added regular English adjective to the endonym part (original one was never finished and there's no plan for it);
 - added new UCS City-State names from updates v13 to v15;
 - few minor corrections;
 
 v9:
-- readded Missión from VP 2.7;
+- readded MissiÃ³n from VP 2.7;
 - cut "Hall" from "Ceilidh Hall";
 
 v8:
@@ -17,7 +18,7 @@ v8:
 - modified civilizations compatibility tags to be easily distinguishable in Community table (added "-CIVILIZATION");
 - added compatiblity (reference) and new endonyms for new CSs from UCS;
 - further @pineappledan's civilizations tweaks;
-- cleaning the files (deleting Missión; changed cathegories for some entries);
+- cleaning the files (deleting MissiÃ³n; changed cathegories for some entries);
 - renamed Helsinki to Helsingfors in swedish city list;
 
 v7:
