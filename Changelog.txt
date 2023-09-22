@@ -1,7 +1,9 @@
 Changelog:
 v10:
 - added 1 Polish city: Œwidnica;
-- added regular English adjective to the endonym part (original was never finished and there's no plan for it);
+- added ó to Polish names, as it is the only one working;
+- added some unique letters to the exisitng changes (á, ä, é, ?, ó, ü, ç);
+- added regular English adjective to the endonym part (original one was never finished and there's no plan for it);
 - added new UCS City-State names from updates v13 to v15;
 - few minor corrections;
 
