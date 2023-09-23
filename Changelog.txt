@@ -3,7 +3,7 @@ v10:
 - added 1 Polish city: Świdnica;
 - unique letters:
 	- added "ó" (read it like "u") to Polish names, as it is the only one working (https://blogs.transparent.com/polish/using-u-and-o/);
-	- added unique letters and made some corrections to city lists (Spain, Portugal, Brazil, Sweden, Germany, Austria, Denmark, France);
+	- added unique letters and made some corrections to city lists (Spain, Portugal, Brazil, Sweden, Germany, Austria, Denmark, France, China);
 	- added some unique letters to the exisitng changes (á, à, ä, â, å, ã, æ, é, è, ë, ê, í, ï, î, ó, ö, ô, ø, œ, ú, ù, ü, û, ç, þ, ð);
 	- added "ß", but it is replaced by "ss" automatically;
 	= there are some letters missing (ǫ (Dansk), ÿ (French));
