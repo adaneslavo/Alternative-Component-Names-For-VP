@@ -1,12 +1,17 @@
 Changelog:
 v10:
 - added 1 Polish city: Świdnica;
-- added ó to Polish names, as it is the only one working;
-- added unique letters and made some corrections to city lists (Spain, Portugal, Brazil, Sweden, Germany, Austria);
-- added some unique letters to the exisitng changes (á, ä, é, è, ó, ü, ç);
-- added regular English adjective to the endonym part (original one was never finished and there's no plan for it);
+- unique letters:
+	- added "ó" (read it like "u") to Polish names, as it is the only one working;
+	- added unique letters and made some corrections to city lists (Spain, Portugal, Brazil, Sweden, Germany, Austria);
+	- added some unique letters to the exisitng changes (á, à, ä, â, å, ã, æ, é, è, ë, ê, í, ï, î, ó, ö, ô, ø, œ, ú, ù, ü, û, ç, þ, ð);
+	- added "ß", but it is replaced by "ss" automatically;
+	= there are no some letters (ǫ (Dansk), ÿ (French));
+- added regular English adjectives to the endonym part (original one was never finished and there's no plan for it);
 - added new UCS City-State names from updates v13 to v15;
 - few minor corrections;
+
+[note] https://blogs.transparent.com/polish/using-u-and-o/
 
 v9:
 - readded Missión from VP 2.7;
