@@ -4,7 +4,7 @@ v10:
 - unique letters:
 	- added "ó" (read it like "u") to Polish names, as it is the only one working (https://blogs.transparent.com/polish/using-u-and-o/);
 	- added unique letters and made some corrections to city lists (Spain, Portugal, Brazil, Sweden, Germany, Austria, Denmark, France, China, Venice);
-	- added some unique letters to the exisitng changes (á, à, ä, â, å, ã, æ, é, è, ë, ê, í, ï, î, ó, ö, ô, ø, œ, ú, ù, ü, û, ý, ç, þ, ð);
+	- added some unique letters to the exisitng changes (á, à, ä, â, å, ã, æ, é, è, ë, ê, í, ì, ï, î, ó, ò, ö, ô, ø, œ, ú, ù, ü, û, ý, ç, þ, ð);
 	- added "ß", but it is replaced by "ss" automatically;
 	= there are some letters missing:
 		- ą, ę, ł, ć, ń, ś, ź, ż (Polish);
