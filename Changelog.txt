@@ -3,14 +3,21 @@ v10:
 - added 1 Polish city: Świdnica;
 - unique letters:
 	- added "ó" (read it like "u") to Polish names, as it is the only one working (https://blogs.transparent.com/polish/using-u-and-o/);
-	- added unique letters and made some corrections to city lists (Spain, Portugal, Brazil, Sweden, Germany, Austria, Denmark, France, China, Venice);
-	- added some unique letters to the exisitng changes (á, à, ä, â, å, ã, æ, é, è, ë, ê, í, ì, ï, î, ó, ò, ö, ô, ø, œ, ú, ù, ü, û, ý, ç, þ, ð);
-	- added "ß", but it is replaced by "ss" automatically;
+	- added unique letters and made some corrections to city lists:
+		- Spain (small corrections of spellings), Portugal, Brazil, Sweden, Germany, Austria, France, China (tones);
+		- Venice (reworked to Venetian dialect);
+		- Denmark (reworked to Old Norse dialect; added reserve list);
+		- Greece (added few more cities; fixed multiple non-Greek spellings; fixed city order; removed duplicates);
+	- added some unique letters to the exisitng changes (units, buildings, improvements, leaders, city-states):
+		- confirmed letters: á, à, ä, â, å, ã, æ, é, è, ë, ê, í, ì, ï, î, ó, ò, ö, ô, ø, œ, ú, ù, ü, û, ý, ç, þ, ð;
+	- added few more detailed corrections (mostly Greek uniques, but also more);
 	= there are some letters missing:
 		- ą, ę, ł, ć, ń, ś, ź, ż (Polish);
+		- ß (German; it is replaced by "ss" automatically);
 		- ǫ (Dansk/Old Norse);
 		- ÿ (French);
-		- ā, ī, ō, ū, ǎ, ǐ, ǔ (Chinese);
+		- ā, ē, ī, ō, ū, ǎ, ǐ, ǔ (Chinese);
+		- ḗ, ṓ (Greek);
 - added regular English adjectives to the endonym part (original one was never finished and there's no plan for it);
 - added new UCS City-State names from updates v13 to v15;
 - few minor corrections;
