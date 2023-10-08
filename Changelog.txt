@@ -1,4 +1,7 @@
 Changelog:
+v11:
+- added entries for conflicts table (new feature blocking certain City-States if conflicting Major Civ is in game; added in dll);
+
 v10:
 - added 1 Polish city: Świdnica;
 - unique letters:
