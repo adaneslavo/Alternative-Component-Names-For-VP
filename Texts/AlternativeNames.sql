@@ -5047,7 +5047,7 @@ UPDATE Community SET Value = '1' WHERE Type = 'ACN-CIVILIZATION-TLINGIT' AND EXI
 --==============================================================================================================================================================================================================================================================================================--
 --==============================================================================================================================================================================================================================================================================================--
 -- Blocking conflicting City-States
-	/*DELETE FROM MajorBlocksMinor WHERE MajorCiv = 'CIVILIZATION_CHINA' AND MinorCiv = 'MINOR_CIV_TAIWAN';
+	DELETE FROM MajorBlocksMinor WHERE MajorCiv = 'CIVILIZATION_CHINA' AND MinorCiv = 'MINOR_CIV_TAIWAN';
 	DELETE FROM MajorBlocksMinor WHERE MajorCiv = 'CIVILIZATION_GREECE' AND MinorCiv = 'MINOR_CIV_AMBRACIA';
 	DELETE FROM MajorBlocksMinor WHERE MajorCiv = 'CIVILIZATION_GREECE' AND MinorCiv = 'MINOR_CIV_LACONIA';
 	DELETE FROM MajorBlocksMinor WHERE MajorCiv = 'CIVILIZATION_SIAM' AND MinorCiv = 'MINOR_CIV_AYUTTHAYA';
@@ -5095,7 +5095,7 @@ UPDATE Community SET Value = '1' WHERE Type = 'ACN-CIVILIZATION-TLINGIT' AND EXI
 	SELECT 		'CIVILIZATION_RUSSIA',		'MINOR_CIV_VILNIUS' UNION ALL
 	SELECT 		'CIVILIZATION_RUSSIA',		'MINOR_CIV_KIEV' UNION ALL
 	SELECT 		'CIVILIZATION_SWEDEN',		'MINOR_CIV_RIGA' UNION ALL
-	SELECT 		'CIVILIZATION_VENICE',		'MINOR_CIV_RAGUSA';*/
+	SELECT 		'CIVILIZATION_VENICE',		'MINOR_CIV_RAGUSA';
 --==============================================================================================================================================================================================================================================================================================--
 --==============================================================================================================================================================================================================================================================================================--
 -- Random City Names (from UI - Random City Names mod by @whoward69 and @Nutty)
