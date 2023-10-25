@@ -729,7 +729,7 @@ UPDATE Community SET Value = '1' WHERE Type = 'ACN-CIVILIZATION-TLINGIT' AND EXI
 	--	UPDATE Language_en_US SET Text = 'Wellington'			WHERE Tag = 'TXT_KEY_CITYSTATE_WELLINGTON' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-SETTINGS-CITYSTATES' AND Value=1);
 	--	UPDATE Language_en_US SET Text = 'Wittenberg'			WHERE Tag = 'TXT_KEY_CITYSTATE_WITTENBERG' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-SETTINGS-CITYSTATES' AND Value=1);
 		UPDATE Language_en_US SET Text = 'Erebuni'				WHERE Tag = 'TXT_KEY_CITYSTATE_YEREVAN' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-SETTINGS-CITYSTATES' AND Value=1);
-	--	UPDATE Language_en_US SET Text = 'Zanzibar'				WHERE Tag = 'TXT_KEY_CITYSTATE_ZANZIBAR' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-SETTINGS-CITYSTATES' AND Value=1);
+		UPDATE Language_en_US SET Text = 'Unguja'				WHERE Tag = 'TXT_KEY_CITYSTATE_ZANZIBAR' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-SETTINGS-CITYSTATES' AND Value=1);
 	--	UPDATE Language_en_US SET Text = 'Zurich'				WHERE Tag = 'TXT_KEY_CITYSTATE_ZURICH' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='ACN-SETTINGS-CITYSTATES' AND Value=1);
 		----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		-- UCS
