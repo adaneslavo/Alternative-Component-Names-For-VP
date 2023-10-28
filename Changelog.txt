@@ -2,6 +2,7 @@ Changelog:
 v12:
 - Nyaryana Marq typo fix;
 - Zanzibar is now Unguja;
+- Ife city name corrected;
 
 v11:
 - added entries for conflicts table (new feature blocking certain City-States if conflicting Major Civ is in game; added in dll);
