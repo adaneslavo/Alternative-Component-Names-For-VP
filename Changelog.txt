@@ -1,4 +1,7 @@
 Changelog:
+v13:
+- Harun name fix;
+
 v12:
 - Nyaryana Marq typo fix;
 - Zanzibar is now Unguja;
