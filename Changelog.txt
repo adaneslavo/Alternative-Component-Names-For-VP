@@ -1,7 +1,11 @@
 Changelog:
+v14:
+- added Palmyra compatibility;
+
 v13:
 - Harun name fix;
-- added compatibility with @gwennog's civilizations (Ainu, Basque, Corsica, Ireland, Kyivian Rus);
+- added compatibility with @gwennog's civilizations (Ainu, Basque, Corsica, Ireland, Kyivian Rus, Louisiana);
+- added check for UCS mod in MajorBlocksMinor table (in case when UCS is disabled);
 
 v12:
 - Nyaryana Marq typo fix;

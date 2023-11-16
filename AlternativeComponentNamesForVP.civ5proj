@@ -5,7 +5,7 @@
     <ProjectGuid>{9d441f94-2b71-438f-a4c8-55b0ac146186}</ProjectGuid>
     <Name>(text) Alternative Component Names for VP</Name>
     <Guid>7f744e52-8950-4961-93f4-6b6d121b7894</Guid>
-    <ModVersion>13</ModVersion>
+    <ModVersion>14</ModVersion>
     <Stability>Stable</Stability>
     <Teaser>Renames components using either endonyms (english translations) or xenonyms (native words).</Teaser>
     <Description>Renames components and civilizations using either xenonyms (english translations) or endonyms (native words). 
@@ -131,6 +131,48 @@ Compatible with VP, MUCfVP.</Description>
         <Type>Mod</Type>
         <Name>(@pineappledan's) Tlingit</Name>
         <Id>bb769714-1243-4d42-9c13-bdbb55405064</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@gwennog's) Ainu</Name>
+        <Id>3499cc3d-2073-42c9-9bf0-f39db982e741</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@gwennog's) Basques</Name>
+        <Id>63b1732e-5fff-449e-a5bc-17ab5ed71e3a</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@gwennog's) Corsica</Name>
+        <Id>55abc424-63ea-4858-a3e5-15e8cca4890b</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@gwennog's) Ireland</Name>
+        <Id>5bc5cebf-f7fc-4cf7-8669-726e58ad476e</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@gwennog's) Kyivian Rus</Name>
+        <Id>a17e6c5d-d00b-4650-a09b-61c34a299f51</Id>
+        <MinVersion>0</MinVersion>
+        <MaxVersion>999</MaxVersion>
+      </Association>
+      <Association>
+        <Type>Mod</Type>
+        <Name>(@gwennog's) Louisiana</Name>
+        <Id>3ea46c4f-6e13-46bf-ba28-71a3ffa85b53</Id>
         <MinVersion>0</MinVersion>
         <MaxVersion>999</MaxVersion>
       </Association>
