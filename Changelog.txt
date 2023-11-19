@@ -1,6 +1,6 @@
 Changelog:
 v14:
-- added Palmyra compatibility;
+- added UCS v16 compatibility;
 
 v13:
 - Harun name fix;
