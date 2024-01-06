@@ -1,6 +1,7 @@
 Changelog:
 v14:
 - added UCS v16 compatibility;
+- fixed Sukhot(h)ai;
 
 v13:
 - Harun name fix;
