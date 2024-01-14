@@ -1,4 +1,10 @@
 Changelog:
+v15:
+- added 8 more cities to American list; most of them were the most populated cities from the 1791 census, but founded around the Independance Day;
+- added missing City-States from later stage of v16;
+- fixed few City-States' names; added some accents and unique letters; added few endonyms;
+- added Aurora Borealis entry (no ingame change);
+
 v14:
 - added UCS v16 compatibility;
 - fixed Sukhot(h)ai;
@@ -31,7 +37,7 @@ v10:
 	- added few more detailed corrections (mostly Greek uniques, but also more);
 	= there are some letters missing:
 		- ą, ę, ł, ć, ń, ś, ź, ż (Polish);
-		- ß (German; it is replaced by "ss" automatically);
+		- ß (German; it is replaced by "ss" automatically, but not everytwhere!);
 		- ǫ (Dansk/Old Norse);
 		- ÿ (French);
 		- ā, ē, ī, ō, ū, ǎ, ǐ, ǔ (Chinese);
